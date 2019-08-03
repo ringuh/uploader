@@ -2,6 +2,7 @@ config.py
 *.key
 *.log
 *.tmp
+*.pub
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
