@@ -1,6 +1,6 @@
 # uploader
 
-requires python and web server to upload the images to.
+requires python and web server to upload the files to.
 
 <img src="/static/toast_example.png"/>
 
